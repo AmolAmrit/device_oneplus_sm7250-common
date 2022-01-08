@@ -80,7 +80,7 @@
     <bool name="config_enableSmartPixels">true</bool>
 
     <!-- Default state for LiveDisplay -->
-    <bool name="config_liveDisplayAvailable">true</bool>
+    <bool name="config_liveDisplayAvailable">false</bool>
 
     <!-- Whether to show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>

@@ -309,8 +309,8 @@ PRODUCT_PACKAGES += \
     liboffloadhal
 
 # LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.1-service.oneplus
+#PRODUCT_PACKAGES += \
+#vendor.lineage.livedisplay@2.1-service.oneplus
 
 # Media
 PRODUCT_COPY_FILES += \
