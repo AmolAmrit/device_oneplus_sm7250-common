@@ -23,4 +23,7 @@
     <dimen name="tri_state_middle_dialog_position">480px</dimen>
     <dimen name="tri_state_up_dialog_position">336px</dimen>
 
+    <!-- The maximum offset in either direction that elements are moved horizontally to prevent
+         burn-in on AOD. -->
+    <dimen name="burn_in_prevention_offset_x">0dp</dimen>
 </resources>
