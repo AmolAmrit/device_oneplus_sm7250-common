@@ -445,6 +445,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.oneplus
 
+# UdfpsResources
+PRODUCT_PACKAGES += \
+    UdfpsResources
+
 # Update engine
 PRODUCT_PACKAGES += \
     update_engine \
