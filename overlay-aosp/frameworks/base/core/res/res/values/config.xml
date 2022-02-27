@@ -141,4 +141,7 @@
 
     <!-- NightLight UDFPS -->
     <bool name="disable_fod_night_light">true</bool>
+
+    <!-- Specify custom blanking delay of the display -->
+    <integer name="config_screen_off_delay">0</integer>
 </resources>
