@@ -116,6 +116,14 @@
     <!-- Display has physical cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
 
+    <!-- Names of the key handler classes -->
+    <string-array name="config_deviceKeyHandlerClasses" translatable="false">
+        <item>org.lineageos.settings.device.KeyHandler</item>
+    </string-array>
+
+    <!-- Whether key handler sends intent when changing slider position -->
+    <string name="config_alertSliderIntent">org.lineageos.settings.device.UPDATE_SLIDER_POSITION</string>
+
     <!-- Whether device has physical tri state switch -->
     <bool name="config_hasAlertSlider">true</bool>
 
