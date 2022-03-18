@@ -245,6 +245,13 @@ sys.vendor.shutdown.waittime=500
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7250
 
+# Refresh Rate
+ro.surface_flinger.use_content_detection_for_refresh_rate=true
+ro.surface_flinger.set_display_power_timer_ms=1000
+ro.surface_flinger.set_idle_timer_ms=80
+ro.surface_flinger.set_touch_timer_ms=200
+vendor.display.idle_time=1100
+
 # USB
 vendor.usb.diag.func.name=diag
 vendor.usb.use_ffs_mtp=0
