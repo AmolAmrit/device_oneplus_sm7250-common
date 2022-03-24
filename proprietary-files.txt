@@ -184,6 +184,8 @@ vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so
 # Display
 vendor/bin/hw/vendor.oneplus.hardware.display@1.0-service
 vendor/etc/init/vendor.oneplus.hardware.display@1.0-service.rc
+system_ext/lib/libdisplayconfig.system.qti.so
+system_ext/lib64/libdisplayconfig.system.qti.so
 
 # Display (HDR)
 vendor/lib64/libhdr_tm.so
